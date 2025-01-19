@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Crafting Data-Driven Stories, One Line of Code at a Time</h3>
 
-- 🔭 I’m currently working on **A Natural Language Processing project focused on enhancing text classification and sentiment analysis using machine learning models.**
+- 🔭 I’m currently working on **Machine learning and data science models, including projects in predictive analytics, recommendation systems, and natural language processing.**
 
 - 🌱 I’m currently learning **Advanced frameworks like TensorFlow and PyTorch, as well as completing courses in Cloud Computing (AWS), Snowflake, and Power BI.**
 

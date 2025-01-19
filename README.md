@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Crafting Data-Driven Stories, One Line of Code at a Time</h3>
 
-<img align="right" alt="coding" width="250"  src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0W9Uyrgulh16t9cMA2s_GKW1GxwgKKdqGQ&s">
+<img align="right" alt="coding" width="250"  src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=6c09b952l0azxehvte1qgu6m285c6rhm1yn8viz9q8n07bxe&ep=v1_gifs_search&rid=200.gif&ct=g">
 
 - 🔭 I’m currently working on **Machine learning and data science models, including projects in predictive analytics, recommendation systems, and natural language processing.**
 

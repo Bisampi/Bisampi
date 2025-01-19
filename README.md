@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Crafting Data-Driven Stories, One Line of Code at a Time</h3>
 
-<img align="right" alt="coding" width="250"  src="[https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=6c09b952l0azxehvte1qgu6m285c6rhm1yn8viz9q8n07bxe&ep=v1_gifs_search&rid=200.gif&ct=g](https://i.gifer.com/JXA0.gif)">
+<img align="right" alt="coding" width="250"  src="https://i.gifer.com/JXA0.gif">
 
 - 🔭 I’m currently working on **Machine learning and data science models, including projects in predictive analytics, recommendation systems, and natural language processing.**
 

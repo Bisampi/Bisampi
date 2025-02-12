@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Machine learning, data visualization (Power BI, Tableau), ETL pipelines, and natural language processing.**
 
-- 📫 How to reach me **iampallavibisam77@gmail.com**
+- 📫 How to reach me **pallavibisam77@gmail.com**
 
 - ⚡ Fun fact **Data fuels my curiosity**
 

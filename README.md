@@ -12,35 +12,35 @@
  
 -  I’m a Firmware Engineer with 5+ years of experience in embedded systems for medical devices and automotive electronics. My expertise includes ARM Cortex-M/A architectures, RTOS (FreeRTOS, Zephyr, VxWorks, Nucleus), device drivers, hardware bring-up, and post-silicon validation.
 
-I work hands-on with hardware using JTAG, oscilloscopes, and logic analyzers, while also building scalable workflows through automation tools like Jenkins CI/CD and cloud platforms like AWS and Docker.
+   I work hands-on with hardware using JTAG, oscilloscopes, and logic analyzers, while also building scalable workflows through automation tools like Jenkins CI/CD and cloud    platforms like AWS and Docker.
 
-I’m always curious about the future — especially how firmware can integrate with AI-driven solutions to create smarter, more connected embedded systems.
+   I’m always curious about the future — especially how firmware can integrate with AI-driven solutions to create smarter, more connected embedded systems.
 
-🌟 What I Do
+  🌟 What I Do
 
-- Develop reliable firmware in C/C++ for safety-critical and high-performance systems
+   - Develop reliable firmware in C/C++ for safety-critical and high-performance systems
 
-- Collaborate across hardware, software, manufacturing, and QA teams
+   - Collaborate across hardware, software, manufacturing, and QA teams
 
-- Automate testing and validation pipelines with Python, Jenkins CI/CD, AWS, and Docker
+   - Automate testing and validation pipelines with Python, Jenkins CI/CD, AWS, and Docker
 
-- Debug and optimize firmware at the hardware level with advanced tools
+   - Debug and optimize firmware at the hardware level with advanced tools
 
-- Document designs, validation results, and compliance processes
+   - Document designs, validation results, and compliance processes
 
-🚀 What I’m Interested In
+   🚀 What I’m Interested In
 
-- Firmware development and board bring-up (RTOS, drivers, BSPs)
+   - Firmware development and board bring-up (RTOS, drivers, BSPs)
 
-- IoT and intelligent edge systems that combine embedded firmware with AI capabilities
+   - IoT and intelligent edge systems that combine embedded firmware with AI capabilities
 
-- Process automation and DevOps for embedded systems to improve reliability and speed
+   - Process automation and DevOps for embedded systems to improve reliability and speed
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bisampi07](https://github.com/Bisampi07)
+   - 👨‍💻 All of my projects are available at [https://github.com/Bisampi07](https://github.com/Bisampi07)
 
-- 📫 How to reach me **bisampallavi77@gmail.com**
+   - 📫 How to reach me **bisampallavi77@gmail.com**
 
-- ⚡ Fun fact: For me, “board bring-up” feels like solving a puzzle — except the puzzle runs on ARM Cortex.
+   - ⚡ Fun fact: For me, “board bring-up” feels like solving a puzzle — except the puzzle runs on ARM Cortex.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

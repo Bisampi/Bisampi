@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on **embedded systems for medical devices and automotive electronics.**
 - 🤝 I’m looking for help with integrating embedded firmware with cloud platforms (AWS, Docker) and exploring how AI can be deployed efficiently on edge devices.
-- 
- I’m a Firmware Engineer with 5+ years of experience in embedded systems for medical devices and automotive electronics. My expertise includes ARM Cortex-M/A architectures, RTOS (FreeRTOS, Zephyr, VxWorks, Nucleus), device drivers, hardware bring-up, and post-silicon validation.
+ 
+-  I’m a Firmware Engineer with 5+ years of experience in embedded systems for medical devices and automotive electronics. My expertise includes ARM Cortex-M/A architectures, RTOS (FreeRTOS, Zephyr, VxWorks, Nucleus), device drivers, hardware bring-up, and post-silicon validation.
 
 I work hands-on with hardware using JTAG, oscilloscopes, and logic analyzers, while also building scalable workflows through automation tools like Jenkins CI/CD and cloud platforms like AWS and Docker.
 

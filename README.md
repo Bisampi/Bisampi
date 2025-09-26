@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
-<h3 align="center">Crafting Data-Driven Stories, One Line of Code at a Time</h3>
+<h3 align="center">Powering Embedded Systems, One Bit at a Time</h3>
 
 <img align="right" alt="coding" width="200"  src="https://i.gifer.com/JXA0.gif">
 
-
-👋 Hi, I’m Pallavi Bisam
 
 - 🔭 I’m currently working on **embedded systems for medical devices and automotive electronics.**
 - 🤝 I’m looking for help with integrating embedded firmware with cloud platforms (AWS, Docker) and exploring how AI can be deployed efficiently on edge devices.

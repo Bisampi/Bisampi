@@ -4,21 +4,42 @@
 
 <img align="right" alt="coding" width="200"  src="https://i.gifer.com/JXA0.gif">
 
-- 🔭 I’m currently working on **Machine learning and data science models, including projects in predictive analytics, recommendation systems, and natural language processing.**
 
-- 🌱 I’m currently learning **Advanced frameworks like TensorFlow and PyTorch, as well as completing courses in Cloud Computing (AWS), Snowflake, and Power BI.**
+👋 Hi, I’m Pallavi Bisam
 
-- 👯 I’m looking to collaborate on **Exciting data science and machine learning projects, including predictive analytics, recommendation systems, or ETL pipeline development.**
+- 🔭 I’m currently working on **embedded systems for medical devices and automotive electronics.**
+- 🤝 I’m looking for help with integrating embedded firmware with cloud platforms (AWS, Docker) and exploring how AI can be deployed efficiently on edge devices.
+      I’m a Firmware Engineer with 5+ years of experience in embedded systems for medical devices and automotive electronics. My expertise includes ARM Cortex-M/A architectures, RTOS (FreeRTOS, Zephyr, VxWorks, Nucleus), device drivers, hardware bring-up, and post-silicon validation.
 
-- 🤝 I’m looking for help with **Advanced techniques in deep learning, cloud computing, or scaling machine learning models in production environments.**
+I work hands-on with hardware using JTAG, oscilloscopes, and logic analyzers, while also building scalable workflows through automation tools like Jenkins CI/CD and cloud platforms like AWS and Docker.
+
+I’m always curious about the future — especially how firmware can integrate with AI-driven solutions to create smarter, more connected embedded systems.
+
+🌟 What I Do
+
+Develop reliable firmware in C/C++ for safety-critical and high-performance systems
+
+Collaborate across hardware, software, manufacturing, and QA teams
+
+Automate testing and validation pipelines with Python, Jenkins CI/CD, AWS, and Docker
+
+Debug and optimize firmware at the hardware level with advanced tools
+
+Document designs, validation results, and compliance processes
+
+🚀 What I’m Interested In
+
+Firmware development and board bring-up (RTOS, drivers, BSPs)
+
+IoT and intelligent edge systems that combine embedded firmware with AI capabilities
+
+Process automation and DevOps for embedded systems to improve reliability and speed
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bisampi07](https://github.com/Bisampi07)
 
-- 💬 Ask me about **Machine learning, data visualization (Power BI, Tableau), ETL pipelines, and natural language processing.**
+- 📫 How to reach me **bisampallavi77@gmail.com**
 
-- 📫 How to reach me **pallavibisam77@gmail.com**
-
-- ⚡ Fun fact **Data fuels my curiosity**
+- ⚡ ⚡ Fun fact: For me, “board bring-up” feels like solving a puzzle — except the puzzle runs on ARM Cortex.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
